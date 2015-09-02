@@ -1,4 +1,4 @@
-#Site Tags dashlet for Alfresco Share with D3j
+#Site Tags dashlet for Alfresco Share with D3
 
 
 
