@@ -1,6 +1,6 @@
-#Site Tags dashlet for Alfresco Share with D3j https://github.com/share-extras/site-tags-dashlet
+#Site Tags dashlet for Alfresco Share with D3
 
-This work is based in the dashlet published by Will Abson.
+This work is based in the dashlet published by Will Abson https://github.com/share-extras/site-tags-dashlet.
 
 The principal differences are:
 - Compatible with Alfresco 5.0.x
